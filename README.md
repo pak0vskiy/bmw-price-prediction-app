@@ -52,7 +52,7 @@ Welcome to the **BMW Price Prediction App**! This application uses machine learn
 Eager to dive deeper? Here's how you can learn more about the **BMW Price Prediction App**:
 
 - **Documentation:** Check out the [Installation](#installation) and [Usage](#usage) sections below.
-- **Source Code:** Explore the codebase on [GitHub](https://github.com/yourusername/bmw-price-prediction-app).
+- **Source Code:** Explore the codebase on [GitHub](https://github.com/pak0vskiy/bmw-price-prediction-app).
 - **Tutorials:** Follow step-by-step guides to set up and customize the app for your needs.
 - **Contact:** Reach out via [Email](mailto:maks.pak.0303@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pakmaxim/).
 
@@ -92,7 +92,7 @@ Steps:
     * The predicted price will be displayed on the screen.
 2. **Test online**
 **Quick Access:**
-- **Visit the App:** 👉 Click here to test the BMW Price Prediction App 👈
+- **Visit the App:** 👉 [Click here to test the BMW Price Prediction App](https://bmw-price-prediction.streamlit.app/) 👈
 - **Use the interface**:
     * Input the car details as prompted and receive instant price predictions without any setup.
 
