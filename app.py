@@ -58,7 +58,7 @@ input_tab, prediction_tab = st.tabs(["Характеристики", "Предс
 
 with input_tab:
     with st.form("Введите характеристики вашей машины:"):
-        year = st.slider('Год выпуска машины:', min_value=1940, max_value=2025, value=2024, step=1)
+        year = st.slider('Год выпуска машины:', min_value=1981, max_value=2025, value=2024, step=1)
         num_of_years = st.slider('Сколько лет в использовании:', min_value=0, max_value=30, value=5, step=1)
         mileage = st.slider('Пробег:', min_value=0, max_value=300000, value=20000, step=1000)
 
