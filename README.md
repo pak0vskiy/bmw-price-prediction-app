@@ -27,7 +27,7 @@ Welcome to the **BMW Price Prediction App**! This application uses machine learn
 
 ## English
 
-### 📌 Does This Solve My Problem?
+### <a name="does-this-solve-my-problem"></a>📌 Does This Solve My Problem?
 
 **Absolutely!** If you're looking to estimate the value of a BMW car based on specific attributes like model, year, mileage, and more, this app provides accurate predictions to aid your decision-making process.
 
@@ -37,7 +37,7 @@ Welcome to the **BMW Price Prediction App**! This application uses machine learn
 
 ---
 
-### 🛠️ Can I Use This Code?
+### <a name="can-i-use-this-code"></a>🛠️ Can I Use This Code?
 
 **Yes!** This project is open-source and free to use. You can:
 
@@ -47,7 +47,7 @@ Welcome to the **BMW Price Prediction App**! This application uses machine learn
 
 ---
 
-### 📚 How Can I Learn More?
+### <a name="how-can-i-learn-more"></a>📚 How Can I Learn More?
 
 Eager to dive deeper? Here's how you can learn more about the **BMW Price Prediction App**:
 
@@ -58,7 +58,7 @@ Eager to dive deeper? Here's how you can learn more about the **BMW Price Predic
 
 ---
 
-### 🚀 Installation
+### <a name="installation"></a>🚀 Installation
 
 1. **Clone the Repository:**
    ```bash
@@ -77,7 +77,7 @@ Eager to dive deeper? Here's how you can learn more about the **BMW Price Predic
 
 ---
 
-### 📈 Usage
+### <a name="usage"></a>📈 Usage
 
 There are two primary ways to use the **BMW Price Prediction App**:
 1. **Run locally**
@@ -98,12 +98,12 @@ Steps:
 
 ---
 
-### 📝 License
+### <a name="license"></a>📝 License
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as per the license terms.
 
 ---
 
-### 📬 Contact
+### <a name="contact"></a>📬 Contact
 Have questions or suggestions? Feel free to reach out!
 
 - **Email**: maks.pak.0303@gmail.com
