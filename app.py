@@ -62,11 +62,11 @@ with input_tab:
         num_of_years = st.slider('Сколько лет в использовании:', min_value=0, max_value=30, value=5, step=1)
         mileage = st.slider('Пробег:', min_value=0, max_value=300000, value=20000, step=1000)
 
-        state = st.selectbox('Место продажи:', 
-                                        ['CA', 'TX', 'NY', 'FL', 'IL', 'PA', 'OH', 'GA', 'WA', 'NJ',
-                                        'NC', 'MA', 'VA', 'MI', 'CO', 'MD', 'TN', 'AZ', 'IN', 'MN',
-                                        'WI', 'MO', 'CT', 'OR', 'SC', 'LA', 'AL', 'KY', 'UT',
-                                        'IA', 'NV', 'KS', 'AR', 'NE', 'MS', 'NM', 'ID', 'Non-US'])
+        # state = st.selectbox('Место продажи:', 
+        #                                 ['CA', 'TX', 'NY', 'FL', 'IL', 'PA', 'OH', 'GA', 'WA', 'NJ',
+        #                                 'NC', 'MA', 'VA', 'MI', 'CO', 'MD', 'TN', 'AZ', 'IN', 'MN',
+        #                                 'WI', 'MO', 'CT', 'OR', 'SC', 'LA', 'AL', 'KY', 'UT',
+        #                                 'IA', 'NV', 'KS', 'AR', 'NE', 'MS', 'NM', 'ID', 'Non-US'])
 
         bmw_model = st.selectbox('Модель:', 
                                         ['1', '2', '3', '4', '5', '6', '7', 'M', 'X', 'Z', 'I'])
@@ -77,7 +77,7 @@ with input_tab:
 
         input_data = {
                 "Year": year,
-                "State": state,
+                "State": "",
                 "Mileage": mileage,
                 "NumOfYears": num_of_years,
                 "Model": str(bmw_model),
